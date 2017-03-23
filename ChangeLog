@@ -1,0 +1,22 @@
+15-04-03 Matthias Toscanelli  <m.toscanelli@code-source.ch>
+
+	* Stable 3.0.0
+    * TYPO3 7.1 compatibility fix
+    * Code cleanup
+    * Documentation cleanup
+
+13-10-04 Matthias Toscanelli  <m.toscanelli@code-source.ch>
+
+	* Stable 2.0.0
+    * Code cleanup
+    * TYPO3 6.2 compatibility fix
+
+13-10-04 Matthias Toscanelli  <m.toscanelli@code-source.ch>
+
+	* Beta 1.1.0
+    * Added possility to set the header's status
+    * Created the documentation
+
+13-10-04 Matthias Toscanelli  <m.toscanelli@code-source.ch>
+
+	* Initial release
